@@ -1,0 +1,3 @@
+# Remove plaintext and ciphertexts
+*.plain
+*.cipher
